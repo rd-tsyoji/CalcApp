@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="HINT">数値を入力</string>
+    <string name="SYMBOL_ADDITION">+</string>
+    <string name="SYMBOL_SUBTRACTION">-</string>
+    <string name="SYMBOL_MULTIPLICATION">×</string>
+    <string name="SYMBOL_DIVISION">÷</string>
+    <string name="LABEL_RESULT">計算結果</string>
+</resources>
